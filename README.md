@@ -50,6 +50,12 @@ MYSQLDB_LOCAL_PORT=3307
 MYSQLDB_DOCKER_PORT=3306
 ```
 
+### Install Dependencies
+
+```shell
+npm install
+```
+
 ### Run Docker
 
 ```shell
